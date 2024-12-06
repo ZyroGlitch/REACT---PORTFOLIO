@@ -1,9 +1,10 @@
+
 import TypewriterEffect from "./TypeWriter";
 
-export function Home() {
+export function About() {
     return (
         <>
-            <section className="grid justify-center items-center sm:grid-cols-2 bg-[#7469B6] text-white homepage">
+            <section className="grid justify-center items-center sm:grid-cols-2 bg-white text-slate-950 homepage">
                 <div className="flex justify-center items-center">
                     <img src="profile.png" alt="profile" className="object-contain bg-slate-400 w-[350px] h-[350px] shadow-2xl border-2 border-white rounded-full" />
                 </div>

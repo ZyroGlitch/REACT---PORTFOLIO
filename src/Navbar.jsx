@@ -10,7 +10,7 @@ export function Navbar() {
 
     return (
         <>
-            <nav className="bg-[#7A1CAC] text-white border-gray-200 py-2.5 dark:bg-gray-900 drop-shadow-md">
+            <nav className="bg-[#7469B6] text-white border-gray-200 py-2.5 dark:bg-gray-900 drop-shadow-md">
                 <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                     <Link to="/" className="flex items-center">
                         <img
